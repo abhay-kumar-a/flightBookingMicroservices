@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fligtbookingserviceregistry" />
+        <module name="common" />
+        <module name="passengerms" />
+        <module name="flightms" />
+        <module name="bookingservice" />
+        <module name="flightbookinggateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bookingservice" target="11" />
+      <module name="common" target="11" />
+      <module name="flightbookinggateway" target="11" />
+      <module name="flightms" target="11" />
+      <module name="fligtbookingserviceregistry" target="11" />
+      <module name="passengerms" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bookingservice" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="flightbookinggateway" options="-parameters" />
+      <module name="flightms" options="-parameters" />
+      <module name="fligtbookingserviceregistry" options="-parameters" />
+      <module name="passengerms" options="-parameters" />
+    </option>
+  </component>
+</project>

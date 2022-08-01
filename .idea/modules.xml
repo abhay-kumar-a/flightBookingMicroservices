@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookingservice/bookingservice.iml" filepath="$PROJECT_DIR$/bookingservice/bookingservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flightBookingMicroservices.iml" filepath="$PROJECT_DIR$/.idea/flightBookingMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flightbookinggateway/flightbookinggateway.iml" filepath="$PROJECT_DIR$/flightbookinggateway/flightbookinggateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flightms/flightms.iml" filepath="$PROJECT_DIR$/flightms/flightms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fligtbookingserviceregistry/fligtbookingserviceregistry.iml" filepath="$PROJECT_DIR$/fligtbookingserviceregistry/fligtbookingserviceregistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passengerms/passengerms.iml" filepath="$PROJECT_DIR$/passengerms/passengerms.iml" />
+    </modules>
+  </component>
+</project>
